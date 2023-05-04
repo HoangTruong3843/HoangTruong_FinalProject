@@ -1,1 +1,54 @@
 "# HoangTruong_FinalProject" 
+# Group Project Presentation
+
+## Team: [Team Name]
+
+- [Member 1]
+- [Member 2]
+- [Member 3]
+
+## Project Overview
+
+### Problem Statement
+
+[Describe the problem you are trying to solve and your motivation for the application in 1-2 slides.]
+
+### Solution Statement
+
+[Explain how your application solves the problem statement in 1-2 slides.]
+
+### Biggest Challenge
+
+[Discuss your biggest challenge in developing the application in 1-2 slides.]
+
+### Biggest Highlight
+
+[Highlight the most significant achievement or success in developing the application in 1-2 slides.]
+
+### Application Development
+
+[Explain how the application was built, what technologies were used, and include a few key images from the application, such as sequence diagrams or a logical view, in 4 slides.]
+
+### Future Development and Repositories
+
+[Share your thoughts on future development and provide links to your repositories in 2 slides.]
+
+## Rubric
+
+- Presentation: out of 10
+- Team Work: out of 5
+- Requirements Met: out of 5
+- Full Integration: out of 5
+- Demo: out of 10
+- Participation: out of 5
+
+### Final Grade
+
+- Exceeds Expectations: Group Grade * 105%
+- Meets Expectations: Group Grade * 100%
+- Partially Meets Expectations: Group Grade * 85%
+- Does Not Meet Expectations: Group Grade * 75%
+- Missed 50% of Group Meetings: Group Grade * 50%
+
+
+### Submission:
