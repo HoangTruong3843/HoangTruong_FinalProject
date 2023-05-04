@@ -48,7 +48,7 @@
 
 
 ### Submission:
-- Presentation Video link: https://www.youtube.com/watch?v=2APIIbC4YHQ
+- Presentation Video link: https://www.youtube.com/watch?v=5pSi6vwmYFs
 - PowerPoint presentation: https://docs.google.com/presentation/d/1_mbxYL_gDFy_2troP1xAPSgHC783nFQvJs3QnY0XxZc/edit#slide=id.p
 - Front-end git link: https://github.com/HoangTruong3843/final-front-end
 - Back-end git link: https://github.com/HoangTruong3843/dating-app-backend
