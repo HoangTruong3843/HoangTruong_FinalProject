@@ -1,11 +1,7 @@
 "# HoangTruong_FinalProject" 
-# Group Project Presentation
+#  Project Presentation
 
-## Team: [Team Name]
-
-- [Member 1]
-- [Member 2]
-- [Member 3]
+## Name: Hoang Truong
 
 ## Project Overview
 
